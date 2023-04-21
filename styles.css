@@ -11,10 +11,10 @@ section{
     align-items:center;
     min-height: 100vh;
     width: 100%;
-    background:#d18cce
-     /* background: url('css/wallpaper.jpg')no-repeat; 
+/*     background:#d18cce */
+    background: url('wallpaper.jpg')no-repeat; 
     background-position: center;
-    background-size: cover;  */
+    background-size: cover; 
 }
 .form-box{
     position: relative;
